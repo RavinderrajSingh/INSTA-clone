@@ -1,0 +1,101 @@
+.postSection{
+    margin-top: 2rem;
+    width: 40vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
+.postContent{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+
+
+}
+
+
+.profileData{
+    /* background-color: brown; */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+#threeDots{
+    width: 1.2rem;
+}
+
+.postDisplay{
+    margin-top: 5px;
+    width: 40vw;
+    height: 80vh;
+    background-color: rgb(23, 113, 191);
+}
+
+.postDisplay #post{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.interactionSection{
+    margin-top: 10px;
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.interactions{
+    display: flex;
+}
+
+.interaction {
+    margin-right: 10px;
+}
+
+.interaction img {
+    width: 2rem;
+}
+
+.numberOfLikes{
+    align-self:flex-start;
+}
+
+.numberOfLikes h1{
+    margin: 1px;
+    margin-left: 2px;
+    font-size: 1rem;
+    font-family: 'insta bold';
+}
+
+.captionSection{
+    margin-top: 10px;
+}
+
+.captionSection .userName{
+    font-family: 'insta bold';
+    margin: 0;
+    font-size: .9rem;
+}
+
+.captionSection p{
+    margin: 0;
+    font-family: 'insta light';
+    margin-bottom: 10px;
+}
+
+.horizontalline{
+    margin-top: 30px;
+    width: 40vw;
+    height: .1px;
+    background-color: gray;
+}
+
