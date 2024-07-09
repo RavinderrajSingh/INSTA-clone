@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'insta bold';
+    src: url(./fonts/Instagram\ Sans\ Bold.woff);
+}
+@font-face {
+    font-family: 'insta headline';
+    src: url(./fonts/Instagram\ Sans\ Headline.woff);
+}
+@font-face {
+    font-family: 'insta light';
+    src: url(./fonts/Instagram\ Sans\ Light.woff);
+}
+@font-face {
+    font-family: 'insta medium';
+    src: url(./fonts/Instagram\ Sans\ Medium.woff);
+}
+@font-face {
+    font-family: 'insta sans';
+    src: url(./fonts/Instagram\ Sans.woff);
+}
+
+
+body{
+    font-family: 'insta bold';
+    font-size: 120px;
+}
