@@ -1,6 +1,7 @@
 .midSection{
-    background-color: rgb(189, 159, 159);
+    /* background-color: rgb(189, 159, 159); */
     width: 65vw;
+    height: 100vh;
     margin: 0;
     padding: 0;
 }
