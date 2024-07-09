@@ -1,1 +1,1 @@
-Link to web app : https://ravinderrajsingh.github.io/INSTA-clone/
+Link to web app : https://ravinderrajsingh.github.io/InstagramClone/
